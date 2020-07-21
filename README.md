@@ -1,2 +1,3 @@
-# web-dev-internship_at_Technocolab
+# Internship_at_Technocolab.
+:wave: Web-Devlopment
 Repo for internship minor-Tasks
