@@ -9,7 +9,7 @@ Storing My Task , for Technocolab team to check them<br/>
 ### Work-Done :-
 Updated after each project is completed.<br/>
 :large_orange_diamond:`MINOR-TASKS`<br/>
-::white_check_mark:Project-1<br/>
+:white_check_mark:Project-1<br/>
 :white_check_mark:Project-2<br/>
 :white_check_mark:Project-3<br/>
 :large_orange_diamond:`MAJOR-TASK`<br/>
