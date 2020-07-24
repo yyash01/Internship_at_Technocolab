@@ -1,0 +1,96 @@
+body{
+	background-color: #8D5524;
+	font-family: 'Grenze Gotisch', cursive;
+}
+img{
+	height: 150px;
+}
+img:hover {
+	opacity: 1;
+	-webkit-animation: flash 1.5s;
+	animation: flash 1.5s;
+}
+@-webkit-keyframes flash {
+	0% {
+		opacity: .4;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+@keyframes flash {
+	0% {
+		opacity: .4;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+span {
+	position: absolute;
+	bottom: -20px;
+	left: 0;
+	z-index: -1;
+	display: block;
+	width: 300px;
+	margin: 0;
+	padding: 0;
+	color: #444;
+	font-size: 18px;
+	text-decoration: none;
+	text-align: center;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+	opacity: 0;
+}
+/*----------- 2 -------------*/
+.description{
+	font-size: 20px;
+}
+/*--------- 3 --------*/
+#cook-time{ /* css me id Selector is Used by '#'   */
+	font-weight: bold;
+}
+/*-------- 4 --------*/
+.ingredients li{
+	list-style: square;
+}
+/*----- 5 -------*/
+.time p{
+	color: gray;
+}
+/* ----- 6-----*/
+p.citation a.external-link{
+	font-size: 30px;
+	color: Seabrown;
+}
+/* -------- 7 ----------*/
+
+.split {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+.left {
+  left: 0;
+  background-color: #E0AC69;
+
+}
+.right {
+  right: 0;
+  background-color: #808000;
+  color : white;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
