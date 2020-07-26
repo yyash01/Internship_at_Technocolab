@@ -22,8 +22,8 @@ Updated after each project is completed.<br/>
 :white_check_mark:Project-8<br/>
 :large_orange_diamond:`MAJOR-TASK`<br/>
 Grinding-Soon<br/>
----
 #### Have-Doubts
+---
 Please feel Free to mail -> :email:`yjain3.436@gmail.com`<br/>
 #### Suggestions 
 ---
