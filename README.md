@@ -12,6 +12,11 @@ Updated after each project is completed.<br/>
 :white_check_mark:Project-1<br/>
 :white_check_mark:Project-2<br/>
 :white_check_mark:Project-3<br/>
+:white_check_mark:Project-4<br/>
+:white_check_mark:Project-5<br/>
+:white_check_mark:Project-6<br/>
+:white_check_mark:Project-7<br/>
+:white_check_mark:Project-8<br/>
 :large_orange_diamond:`MAJOR-TASK`<br/>
 Grinding-Soon<br/>
 #### Have-Doubts
