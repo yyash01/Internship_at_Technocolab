@@ -29,3 +29,8 @@ Please feel Free to mail -> :email:`yjain3.436@gmail.com`<br/>
 ---
 :bulb: Since it is public Repository  for Technocolab-Team.<br/>
 :x: No PR's would be merged here . Please don't waste your time.
+
+## Everytime fetching this occurs
+<br/> 
+now a solution
+![](doubts.png)
