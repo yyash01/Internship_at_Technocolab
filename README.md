@@ -32,5 +32,5 @@ Please feel Free to mail -> :email:`yjain3.436@gmail.com`<br/>
 
 ## Everytime fetching this occurs
 <br/> 
-now a solution
-![] (doubts.png)
+now a solution<br/>
+![](doubts.png)
