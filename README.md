@@ -12,14 +12,14 @@ Storing My Task , for Technocolab team to check them<br/>
 ---
 Updated after each project is completed.<br/>
 :large_orange_diamond:`MINOR-TASKS`<br/>
-:white_check_mark:Project-1<br/>
-:white_check_mark:Project-2<br/>
-:white_check_mark:Project-3<br/>
-:white_check_mark:Project-4<br/>
-:white_check_mark:Project-5<br/>
-:white_check_mark:Project-6<br/>
-:white_check_mark:Project-7<br/>
-:white_check_mark:Project-8<br/>
+:white_check_mark:Project-1    :white_check_mark:Project-9    :white_check_mark:Project-17<br/>
+:white_check_mark:Project-2    :white_check_mark:Project-10<br/>
+:white_check_mark:Project-3    :white_check_mark:Project-11<br/>
+:white_check_mark:Project-4    :white_check_mark:Project-12<br/>
+:white_check_mark:Project-5    :white_check_mark:Project-13<br/>
+:white_check_mark:Project-6    :white_check_mark:Project-14<br/>
+:white_check_mark:Project-7    :white_check_mark:Project-15<br/>
+:white_check_mark:Project-8    :white_check_mark:Project-16<br/>
 :large_orange_diamond:`MAJOR-TASK`<br/>
 Grinding-Soon<br/>
 #### Have-Doubts
