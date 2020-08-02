@@ -1,12 +1,13 @@
-import { Employee , cadre , tax , benefits , bonus , reimbursement} from './employee.js';
+import {getCadre, calculateTax , getBenefits, calculateBonus, reimbursementEligibility } from './employee.js';
+import myDefault from './employee.js';
 
 function getEmployeeInformation(inputSalary) {
-  Employee.salary = inputSalary;
-  console.log('Cadre: ' + cadre());
-  console.log('Tax: ' + tax());
-  console.log('Benefits: ' + benefits());
-  console.log('Bonus: ' + bonus());
-  console.log('Reimbursement Eligibility: ' + reimbursement() + '\n');
+  myDefault.salary = inputSalary;
+  console.log('Cadre: ' + getCadre());
+  console.log('Tax: ' + calculateTax());
+  console.log('Benefits: ' + getBenefits());
+  console.log('Bonus: ' + calculateBonus());
+  console.log('Reimbursement Eligibility: ' + reimbursementEligibility() + '\n');
 }
 
 getEmployeeInformation(10000);
