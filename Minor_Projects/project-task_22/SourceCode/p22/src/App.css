@@ -1,0 +1,131 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+h1, h2 {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+label {
+  display: block;
+  margin: 20px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+nav a {
+  margin:12px;
+  text-transform: uppercase;
+  font-size: 10px;
+}
+
+button {
+  -webkit-transition-duration: 0.1s; /* Safari */
+  transition-duration: 0.1s;
+  background-color: #F4595B;
+  border-radius: 8px;
+  border-bottom: 4px solid #C24648;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Oxygen', sans-serif;
+  letter-spacing: 2px;
+}
+
+button:hover {
+  background-color: #FF7375;
+  border: none;
+  border-radius: 8px;
+  border-bottom: 4px solid #C24648;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Oxygen', sans-serif;
+  letter-spacing: 2px;
+}
+
+button:active {
+  background-color: #C24648;
+  border: none;
+  border-radius: 8px;
+  border-bottom: 4px solid #C24648;
+  color: #CCC;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Oxygen', sans-serif;
+  letter-spacing: 2px;
+}
+
+#authorization {
+  max-width: 600px;
+  width: 70%;
+  margin: 100px auto;
+  border: 1px solid black;
+}
+
+input {
+  display: block;
+  margin: 10px auto;
+  padding: 5px;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+button, input[type="submit"] {
+  margin: 20px;
+  padding: 7px 35px;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
