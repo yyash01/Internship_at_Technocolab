@@ -2,7 +2,7 @@
 ---
 :wave:Hi <br/>
 * Web-Devlopment-Intern<br/>
-* pray: Date_Starting: 20-july-2020.<br/>
+* Date_Starting: 20-july-2020.<br/>
 ## Motive of Repo :-
 ---
 Storing My Task , for Technocolab team to check them<br/>
